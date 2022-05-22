@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polyno
+<h1 align = 'center'>Polynomi

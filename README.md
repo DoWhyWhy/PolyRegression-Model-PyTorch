@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Re
+<h1 align = 'center'>Polynomial Regres

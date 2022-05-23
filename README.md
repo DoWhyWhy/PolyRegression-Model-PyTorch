@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Regres
+<h1 align = 'center'>Polynomial Regression

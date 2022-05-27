@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Regression Mo
+<h1 align = 'center'>Polynomial Regression Model

@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Regression Model Built from Sc
+<h1 align = 'center'>Polynomial Regression Model Built from Scratc

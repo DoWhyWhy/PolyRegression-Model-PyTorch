@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Regression Model Built from Scratch using P
+<h1 align = 'center'>Polynomial Regression Model Built from Scratch using PyT

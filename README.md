@@ -1,1 +1,1 @@
-<h1 align = 'center'>Polynomial Regression Model Built from Scratch using PyTorch by DoWhy
+<h1 align = 'center'>Polynomial Regression Model Built from Scratch using PyTorch by DoWhyWhy

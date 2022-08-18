@@ -3,4 +3,4 @@
 [Here's the guide on Towards Data Science](https://towardsdatascience.com/polynomial-regression-using-pytorch-from-scratch-500b7887b0ed) which goes in detail about this project and explains the mathematical foundations of the model.
 
 ---
-<h2
+<h2>

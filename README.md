@@ -5,4 +5,4 @@
 ---
 <h2>Project Objectives</h2>
 
-* Implementing a machine learning mo
+* Implementing a machine learning model in

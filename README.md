@@ -5,4 +5,4 @@
 ---
 <h2>Project Objectives</h2>
 
-* Implementing a machine learning model in PyTorch that utilizes a polynomial regression algorithm to make predictions. Building the model entirely from scratch, u
+* Implementing a machine learning model in PyTorch that utilizes a polynomial regression algorithm to make predictions. Building the model entirely from scratch, usin

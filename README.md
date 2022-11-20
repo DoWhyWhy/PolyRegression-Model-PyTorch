@@ -6,4 +6,4 @@
 <h2>Project Objectives</h2>
 
 * Implementing a machine learning model in PyTorch that utilizes a polynomial regression algorithm to make predictions. Building the model entirely from scratch, using basic PyTorch tensor operations.
-* The model
+* The model is

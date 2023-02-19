@@ -6,4 +6,4 @@
 <h2>Project Objectives</h2>
 
 * Implementing a machine learning model in PyTorch that utilizes a polynomial regression algorithm to make predictions. Building the model entirely from scratch, using basic PyTorch tensor operations.
-* The model is used for predictive analysis of automobile prices. The end goal is to develop an efficient ML model that can predict the price of a car based on its fe
+* The model is used for predictive analysis of automobile prices. The end goal is to develop an efficient ML model that can predict the price of a car based on its features

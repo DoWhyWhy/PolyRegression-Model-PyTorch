@@ -9,4 +9,4 @@
 * The model is used for predictive analysis of automobile prices. The end goal is to develop an efficient ML model that can predict the price of a car based on its features.
 * Analyzing data both visually & descriptively to predict which features play a significant role in determining the price of a car.
 
-<h2>Understanding the Problem Stateme
+<h2>Understanding the Problem Statement</h

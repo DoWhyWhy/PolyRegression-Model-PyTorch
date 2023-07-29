@@ -11,4 +11,4 @@
 
 <h2>Understanding the Problem Statement</h2>
 
-The task is a predictive-modelling, re
+The task is a predictive-modelling, regr

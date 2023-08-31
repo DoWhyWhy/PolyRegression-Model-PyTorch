@@ -11,4 +11,4 @@
 
 <h2>Understanding the Problem Statement</h2>
 
-The task is a predictive-modelling, regression problem where the model needs to predict the price of the car, given a set of features. The dataset used in the project is raw and needs
+The task is a predictive-modelling, regression problem where the model needs to predict the price of the car, given a set of features. The dataset used in the project is raw and needs to

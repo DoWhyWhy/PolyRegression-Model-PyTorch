@@ -13,4 +13,5 @@
 
 The task is a predictive-modelling, regression problem where the model needs to predict the price of the car, given a set of features. The dataset used in the project is raw and needs to be preprocessed. Also, from the various features available, some need to be selected for training/testing the model.
 
-<h2>Key Takeaways</h2
+<h2>Key Takeaways</h2>
+

@@ -18,4 +18,4 @@ The task is a predictive-modelling, regression problem where the model needs to 
 The project provided insights into: 
 * Data wrangling
 * Data visualization
-*
+* Data

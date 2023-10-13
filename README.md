@@ -19,3 +19,4 @@ The project provided insights into:
 * Data wrangling
 * Data visualization
 * Data analysis
+* Featur

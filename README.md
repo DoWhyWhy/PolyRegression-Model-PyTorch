@@ -20,4 +20,4 @@ The project provided insights into:
 * Data visualization
 * Data analysis
 * Feature selection
-* Building a mac
+* Building a machi

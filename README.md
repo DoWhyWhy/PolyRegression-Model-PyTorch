@@ -20,4 +20,4 @@ The project provided insights into:
 * Data visualization
 * Data analysis
 * Feature selection
-* Building a machine learning model fr
+* Building a machine learning model fro

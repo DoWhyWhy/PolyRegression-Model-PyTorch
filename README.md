@@ -20,4 +20,4 @@ The project provided insights into:
 * Data visualization
 * Data analysis
 * Feature selection
-* Building a machine learning model from s
+* Building a machine learning model from scratc

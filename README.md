@@ -21,4 +21,4 @@ The project provided insights into:
 * Data analysis
 * Feature selection
 * Building a machine learning model from scratch
-* Understanding PyTorch tensor oper
+* Understanding PyTorch tensor operat

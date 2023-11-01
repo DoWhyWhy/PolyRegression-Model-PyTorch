@@ -21,4 +21,4 @@ The project provided insights into:
 * Data analysis
 * Feature selection
 * Building a machine learning model from scratch
-* Understandin
+* Understanding Py
